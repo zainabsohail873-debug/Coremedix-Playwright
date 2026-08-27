@@ -1,4 +1,4 @@
-# CoreMedix Playwright Automation
+# CoreMedix - Pharmacy Playwright Automation
 
 Playwright automation framework developed using Python and Pytest for testing the CoreMedix HIMS Pharmacy module.
 
